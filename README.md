@@ -1,2 +1,2 @@
 # Mechanical
-AutoDesk CAD Files for Poseidon
+CAD Files for Poseidon
