@@ -1,6 +1,6 @@
 # Poseidon Project: Mechanical Subsystem
 
-## Contents
+## Description
 This repoository contains the CAD files for the projects mechanical components and design. It also includes an archive of the CAD files and documntation for the design.
 
 ## File Organization
