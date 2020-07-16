@@ -7,12 +7,12 @@ This repoository contains the CAD files for the projects mechanical components a
 The CAD files and archived in the following organization. For instructions on the file organization and contribution process, please reter to the [ReadMe - File Organization.md](/ReadMe%20-%20File%20Organization.md)
 
 * Mechanical Folder
-  * Current CAD Files for Poseidon (Fusion 360)
+  * CAD Files for Poseidon (Current)
+  * Bill of Materials (Current)
   * Archives Folder
     * Current Design - An archive of current working design as an `.iges` file
     * Previous Designs - An archive of previous design files in `.zip` files
     *
-
 
 #### Team Members
 Mentor(s): [Wes](https://github.com/santaimpersonator)
