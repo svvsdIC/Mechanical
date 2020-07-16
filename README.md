@@ -4,7 +4,7 @@
 This repoository contains the CAD files for the projects mechanical components and design. It also includes an archive of the CAD files and documntation for the design.
 
 ## File Organization
-The CAD files and archived in the following organization. For instructions on the file organization and contribution process, please reter to the [ReadMe - File Organization.md](/ReadMe%20-%20File%20Organization.md)
+The CAD files and archived in the following organization. For instructions on the file organization and contribution process, please refer to the [File Management Guidelines](/README%20-%20File%20Managent%20Guidelines.md).
 
 * Mechanical Folder
   * CAD Files for Poseidon (Current)
