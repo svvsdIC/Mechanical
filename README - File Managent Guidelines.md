@@ -2,6 +2,8 @@
 
 # File Naming Convention
 
+# Making Commits
+
 # Archiving Process
 
 1. Export the CAD file(s) as an `.iges` file for software compatibility.
